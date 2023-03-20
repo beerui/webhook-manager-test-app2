@@ -11,9 +11,9 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      成功1！
+      <a href="https://github.com/beerui/webhook-manager/" target="_blank" rel="noopener">webhook-manager</a> +
+      <a href="https://github.com/beerui/webhook-manager-test-app1" target="_blank" rel="noopener">test project</a>.
     </h3>
   </div>
 </template>
